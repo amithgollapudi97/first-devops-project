@@ -1,0 +1,1 @@
+print("Hello Amith, my first automation is working 🚀")
